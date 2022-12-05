@@ -59,5 +59,8 @@ orderId : 1 인 주문을 취소하면 더이상 orderId : 1 의 주문에 대�
 ![image](https://user-images.githubusercontent.com/38126952/205574711-6424ddb6-53bc-45e3-890c-a653f8f83c5f.png)
 
 # 5. Circuit Breaker
+Circuit Breaker를 
+
+![image](https://user-images.githubusercontent.com/38126952/205576427-6583666f-e486-47f0-8ea4-fe2a96967dad.png)
 
 # 6. Gateway / Ingress
