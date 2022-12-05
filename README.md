@@ -40,8 +40,9 @@
 
 ![image](https://user-images.githubusercontent.com/38126952/205567110-2b58ccc8-6a89-4518-ba89-d5965eca55e0.png)
 
-# 3. Compensation / Correlation : 주문을 취소하면 orderLists의 첫번째 오더가 취소된다
+# 3. Compensation / Correlation : 주문을 취소
 
+orderId : 1 인 주문을 취소하면 더이상 orderId : 1 의 주문에 대한 status값이 안나온다.
 ![image](https://user-images.githubusercontent.com/38126952/205569288-4d78ef33-3688-4dbe-9493-d5ab1d45cd63.png)
 
 # 4. Request / Response
