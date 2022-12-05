@@ -23,8 +23,22 @@
 
 # 체크포인트
 1. Saga (Pub / Sub)
+
+*서비스의 주문처리
+![image](https://user-images.githubusercontent.com/38126952/205559865-dee0740d-16a5-4ac4-94a5-fdd728eb3860.png)
+
+*서비스의 배달처리
+![image](https://user-images.githubusercontent.com/38126952/205561260-4e01a135-43ef-4a3a-9b9b-7e584792c002.png)
+
+*주문상태 확인
+![image](https://user-images.githubusercontent.com/38126952/205561466-c9cf87b0-f28f-4eee-87fb-cb3f51117c17.png)
+
 2. CQRS
+
 3. Compensation / Correlation
+
 4. Request / Response
+
 5. Circuit Breaker
+
 6. Gateway / Ingress
