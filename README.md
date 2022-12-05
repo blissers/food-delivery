@@ -36,12 +36,14 @@
 
 ![image](https://user-images.githubusercontent.com/38126952/205561466-c9cf87b0-f28f-4eee-87fb-cb3f51117c17.png)
 
-2. CQRS
+# 2. CQRS : OrderStatus를 통해 주문상태가 변경되는지 확인
 
-3. Compensation / Correlation
+![image](https://user-images.githubusercontent.com/38126952/205567110-2b58ccc8-6a89-4518-ba89-d5965eca55e0.png)
 
-4. Request / Response
+# 3. Compensation / Correlation
 
-5. Circuit Breaker
+# 4. Request / Response
 
-6. Gateway / Ingress
+# 5. Circuit Breaker
+
+# 6. Gateway / Ingress
