@@ -53,6 +53,7 @@ orderId : 1 인 주문을 취소하면 더이상 orderId : 1 의 주문에 대�
 동기호출 :
 
 ![image](https://user-images.githubusercontent.com/38126952/205573797-0224097c-9cca-4978-9074-a8785eebb579.png)
+
 비동기호출 :
 
 ![image](https://user-images.githubusercontent.com/38126952/205574711-6424ddb6-53bc-45e3-890c-a653f8f83c5f.png)
