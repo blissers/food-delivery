@@ -21,6 +21,8 @@
 10. 주문상태가 바뀔 때 마다 카톡으로 알림을 보낸다.
 11. 고객이 요리를 배달 받으면 배송확인 버튼을 탭하여, 모든 거래가 완료된다.
 
+![image](https://user-images.githubusercontent.com/38126952/205807784-9a42dc32-7c01-43c4-b97f-492b36680aec.png)
+
 # 체크포인트
 # 1. Saga (Pub / Sub) : 주문처리를 하였을 때 status가 OrderPlace로 변경
 
