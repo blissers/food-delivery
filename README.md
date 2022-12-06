@@ -32,7 +32,7 @@
 
 *서비스의 음식점처리
 
-![image](https://user-images.githubusercontent.com/38126952/205561260-4e01a135-43ef-4a3a-9b9b-7e584792c002.png)
+![image](https://user-images.githubusercontent.com/38126952/205816471-df1a39ab-60a6-4cea-9816-c68f94431bdf.png)
 
 *주문상태 확인
 
