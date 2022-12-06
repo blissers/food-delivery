@@ -71,4 +71,6 @@ Hystrix 를 설정
 
 ![image](https://user-images.githubusercontent.com/38126952/205580636-6c3c9533-c412-4fe3-8968-c30d36ee0fbd.png)
 
+![image](https://user-images.githubusercontent.com/38126952/205805460-b03cff52-c727-46c6-a556-3a235d5f2c0a.png)
+
 ![image](https://user-images.githubusercontent.com/38126952/205581356-4f248210-3be7-4ae5-a581-a5b650cf6fac.png)
