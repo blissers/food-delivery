@@ -34,9 +34,9 @@
 
 ![image](https://user-images.githubusercontent.com/38126952/205816471-df1a39ab-60a6-4cea-9816-c68f94431bdf.png)
 
-*주문상태 확인
+*음식점에서 accept 후 주문상태 확인
 
-![image](https://user-images.githubusercontent.com/38126952/205561466-c9cf87b0-f28f-4eee-87fb-cb3f51117c17.png)
+![image](https://user-images.githubusercontent.com/38126952/205818774-0b76dd64-4a8b-424c-96d5-0740a7360756.png)
 
 # 2. CQRS : OrderStatus를 통해 주문상태가 변경되는지 확인
 
