@@ -28,9 +28,9 @@
 
 *서비스의 주문처리
 
-![image](https://user-images.githubusercontent.com/38126952/205786957-faa53c79-0f25-425b-8900-a30d357e789f.png)
+![image](https://user-images.githubusercontent.com/38126952/205815694-9e3a6c5f-b985-48e9-ade4-f9dbad9ebb00.png)
 
-*서비스의 배달처리
+*서비스의 음식점처리
 
 ![image](https://user-images.githubusercontent.com/38126952/205561260-4e01a135-43ef-4a3a-9b9b-7e584792c002.png)
 
