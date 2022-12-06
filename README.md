@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/38126952/205807784-9a42dc32-7c01-43c4-b97f-492b36680aec.png)
 
 # 체크포인트
-# 1. Saga (Pub / Sub) : 주문처리를 하였을 때 status가 OrderPlace로 변경
+# 1. Saga (Pub / Sub) : 주문처리를 하였을 때 status변경
 
 *서비스의 주문처리
 
