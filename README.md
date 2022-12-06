@@ -26,7 +26,7 @@
 
 *서비스의 주문처리
 
-![image](https://user-images.githubusercontent.com/38126952/205559865-dee0740d-16a5-4ac4-94a5-fdd728eb3860.png)
+![image](https://user-images.githubusercontent.com/38126952/205786957-faa53c79-0f25-425b-8900-a30d357e789f.png)
 
 *서비스의 배달처리
 
